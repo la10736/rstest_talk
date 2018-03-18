@@ -1,0 +1,7 @@
+[package]
+name = "rstest_talk"
+version = "0.1.0"
+authors = ["michele <michele.damico@gmail.com>"]
+
+[dev-dependencies]
+temp_testdir = { git = "https://github.com/la10736/temp_testdir" }
